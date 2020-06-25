@@ -1,0 +1,2 @@
+./node_modules/.bin/autoprefixer-cli -o css/style.css css/style.css
+./node_modules/.bin/html-validate index.html
